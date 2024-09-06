@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "jovem curioso chamado Lucas encontrou um antigo computador empoeirado no sótão de sua casa. Ao ligá-lo, ele descobriu que o computador estava equipado com um software avançado de inteligência artificial que havia sido projetado há décadas, mas nunca havia sido usado. Fascinado, Lucas começou a explorar o sistema e logo percebeu que a IA tinha a capacidade de aprender e se adaptar. Com o tempo, ele começou a fazer experimentos e a interagir com a IA, que se mostrou cada vez mais inteligente e útil. A descoberta transformou a vida de Lucas, permitindo-lhe resolver problemas complexos e até criar novos projetos inovadores. Para você a inteligencia artificial e boa para sociedade?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "eu acho que a inteligencia artificial nos prende mais ainda na tecnologia!",
+                afirmacao: " aqueles que ultilizam muito da internet acaba ficando viciado em celulares, computadores e tablets. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "sim a inteligencia artificial nos ajudam bastante hoje em dia!!",
+                afirmacao: "IA não só expandiu seus conhecimentos, mas também abriu portas para oportunidades acadêmicas e profissionais."
             }
         ]
     },
