@@ -1,1 +1,1 @@
-# inteligencia-artificial
+# visão computacional
